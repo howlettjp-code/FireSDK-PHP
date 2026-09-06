@@ -11,8 +11,7 @@ namespace ModusPromethean\FireSdk\Species;
  * refresh. Source: GET /v1/capabilities — 38 species across
  * 15 families as of the last regenerate.
  */
-final class Lustify
+final class Elevenlabs
 {
-    public const LUSTIFY_SDXL = 'lustify-sdxl';
-    public const LUSTIFY_V7 = 'lustify-v7';
+    public const TTS_ELEVENLABS_TURBO_V2_5 = 'tts-elevenlabs-turbo-v2-5';
 }
